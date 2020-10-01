@@ -17,3 +17,20 @@ This repository contains instructions related to interview tasks
 - You are allowed to use the internet
 
 - No one other than yourself should type in your code
+
+# Practice questions for interviews
+# website where you can practice :
+
+1)HackerRank
+
+2)HackerEarth
+
+3)GreeksForGreek
+
+4)Interview bit
+
+5)Leet Code
+
+6)CodeForce
+
+7)Codechef
